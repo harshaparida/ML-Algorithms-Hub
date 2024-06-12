@@ -47,3 +47,7 @@ Contributions are welcome! If you would like to contribute, please follow these 
    git push origin feature-branch
    ```
 5. Open a pull request detailing your changes.
+
+## License
+
+[MIT License](LICENSE)
